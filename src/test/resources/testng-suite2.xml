@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="TestNG suite" >
+   <test name="TestNGTests" preserve-order="true">
+      <classes>
+         <class name="com.gologix.Pagination" />
+         <class name="com.gologix.SamsungMobiles" />
+      </classes>
+   </test>
+</suite>
